@@ -1,2 +1,2 @@
-# calculator
+# calculator project
 ~Basic program of calculator...
